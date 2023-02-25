@@ -115,3 +115,13 @@ span{
 .social a:hover{
     color: orange;
 }
+@media screen and (max-width: 600px){
+    .images{
+        width: 18%;
+        height: 40%;
+        position: absolute;
+        bottom: 0;
+        right: 100px;
+    }
+    
+}
